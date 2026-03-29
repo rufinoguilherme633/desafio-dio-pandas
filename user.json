@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Pyterson",
+    "account": {
+      "number": "1193388888",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "number": "*** *** *** 4321",
+      "limit": 0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 4,
+    "name": "Maria",
+    "account": {
+      "number": "1193388889",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "number": "*** *** *** 1234",
+      "limit": 0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 1,
+        "description": "\"Maria, considere a diversificação.\""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "João",
+    "account": {
+      "number": "1193388890",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "number": "*** *** *** 5678",
+      "limit": 0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 1,
+        "description": "\"João, confie em estratégias diversificadas.\""
+      }
+    ]
+  }
+]
